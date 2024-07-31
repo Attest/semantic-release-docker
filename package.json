@@ -1,7 +1,7 @@
 {
   "name": "@attest/semantic-release-docker",
   "private": false,
-  "version": "5.0.3",
+  "version": "5.1.0",
   "description": "docker package",
   "main": "index.js",
   "files": [

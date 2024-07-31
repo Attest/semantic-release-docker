@@ -1,5 +1,19 @@
 # Semantic Release Docker
 
+# [5.1.0](https://github.com/attest/semantic-release-docker/compare/v5.0.3...v5.1.0) (2024-07-31)
+
+
+### Chores
+
+* deploy to gh packages [ea1f0da](https://github.com/attest/semantic-release-docker/commit/ea1f0dab6178246eaf80608b972d22c790b87e3d) - GitHub
+* switch github url in package json [084fcb3](https://github.com/attest/semantic-release-docker/commit/084fcb32264f12b5ea6676dc2105762681580f44) - Eliot Stocker
+* switch to attest scope [5dcf263](https://github.com/attest/semantic-release-docker/commit/5dcf263d36db4ea9bd348bcec90939984ea8a9a2) - GitHub
+
+
+### Features
+
+* allow templating of registry and name [22ccc2f](https://github.com/attest/semantic-release-docker/commit/22ccc2f2d02b51594e8ae77df5905017bfa2db6d) - GitHub
+
 ## [5.0.3](https://github.com/esatterwhite/semantic-release-docker/compare/v5.0.2...v5.0.3) (2024-03-25)
 
 
