@@ -34,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/esatterwhite/semantic-release-docker.git"
+    "url": "git+ssh://git@github.com/attest/semantic-release-docker.git"
   },
   "tap": {
     "ts": false,
